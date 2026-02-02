@@ -4,5 +4,4 @@
 4. Деплоить ML-моделей, масштабировать сервисы, огразация пайплайнов, управялть ресурсами.
 5. HashiCorp Vault, Kubernetes Secrets, AWS Secrets Manager, Sealed Secrets от Bitnami
 6. Master Node: kube-apiserver: API для управления кластером, etcd: хранилище ключ-значение для данных кластера, kube-scheduler: распределение подов по нодам, kube-controller-manager: контроллеры для управления состоянием, cloud-controller-manager: интеграция с облачными провайдерами
-   Worker Node: kubelet: агент, который запускает поды, kube-proxy: сетевой прокси для сервисов, Container Runtime: Docker, containerd, CRI-O, Поды: минимальные исполняемые единицы с контейнерами
-7.
+   Worker Node: kubelet: агент, который запускает поды, kube-proxy: сетевой прокси для сервисов, Container Runtime: Docker, containerd, CRI-O, Поды: минимальные исполняемые единицы с контейнерам.
